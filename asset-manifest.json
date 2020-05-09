@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mrunal-writes-code/static/css/main.131fe11b.chunk.css",
+    "main.js": "/mrunal-writes-code/static/js/main.d4230956.chunk.js",
+    "main.js.map": "/mrunal-writes-code/static/js/main.d4230956.chunk.js.map",
+    "runtime-main.js": "/mrunal-writes-code/static/js/runtime-main.a82e6116.js",
+    "runtime-main.js.map": "/mrunal-writes-code/static/js/runtime-main.a82e6116.js.map",
+    "static/js/2.9dbea718.chunk.js": "/mrunal-writes-code/static/js/2.9dbea718.chunk.js",
+    "static/js/2.9dbea718.chunk.js.map": "/mrunal-writes-code/static/js/2.9dbea718.chunk.js.map",
+    "index.html": "/mrunal-writes-code/index.html",
+    "precache-manifest.532e2f1efe8a181f8425bdfb1f01c65f.js": "/mrunal-writes-code/precache-manifest.532e2f1efe8a181f8425bdfb1f01c65f.js",
+    "service-worker.js": "/mrunal-writes-code/service-worker.js",
+    "static/css/main.131fe11b.chunk.css.map": "/mrunal-writes-code/static/css/main.131fe11b.chunk.css.map",
+    "static/js/2.9dbea718.chunk.js.LICENSE.txt": "/mrunal-writes-code/static/js/2.9dbea718.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a82e6116.js",
+    "static/js/2.9dbea718.chunk.js",
+    "static/css/main.131fe11b.chunk.css",
+    "static/js/main.d4230956.chunk.js"
+  ]
+}
